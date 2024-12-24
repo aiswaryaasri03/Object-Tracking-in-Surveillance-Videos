@@ -50,7 +50,7 @@ This application provides a robust platform for experimentation and use.
    - [TinyYOLOv3 Model](https://sourceforge.net/projects/imageai.mirror/files/3.0.0-pretrained/tiny-yolov3.pt/download)
 
 5. Download the following files and place it in the project directory for Object Tracking:
-   - [YOLOv4 Model]
+   - YOLOv4 Model
    - [YOLOv4 Weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
    - [Data File](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
 
