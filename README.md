@@ -9,8 +9,6 @@ This application combines the power of OpenCV, ImageAI, and other Python librari
 
 This application provides a robust platform for experimentation and use.
 
----
-
 ## Features
 
 ### Image Processing
@@ -27,7 +25,6 @@ This application provides a robust platform for experimentation and use.
 - Save processed images as a **ZIP** file.
 - Download processed videos in **MP4** format.
 
----
 
 ## Technologies Used
 - **Frontend:** Streamlit
@@ -35,7 +32,6 @@ This application provides a robust platform for experimentation and use.
 - **Programming Language:** Python
 - **File Handling:** BytesIO, tempfile, zipfile
 
----
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
