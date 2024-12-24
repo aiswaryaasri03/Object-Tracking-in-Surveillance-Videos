@@ -43,7 +43,7 @@ This application provides a robust platform for experimentation and use.
 
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    ```
 
 4. Download the TinyYOLOv3 model and place it in the project directory for Object Detection:
