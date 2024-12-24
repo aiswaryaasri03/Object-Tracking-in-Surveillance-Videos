@@ -9,6 +9,7 @@ This application combines the power of OpenCV, ImageAI, and other Python librari
 
 This application provides a robust platform for experimentation and use.
 
+
 ## Features
 
 ### Image Processing
@@ -24,6 +25,43 @@ This application provides a robust platform for experimentation and use.
 ### Download Options
 - Save processed images as a **ZIP** file.
 - Download processed videos in **MP4** format.
+
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/media-processing-app.git
+   cd media-processing-app
+   ```
+
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Download the TinyYOLOv3 model and place it in the project directory:
+   - [TinyYOLOv3 Model](https://sourceforge.net/projects/imageai.mirror/files/3.0.0-pretrained/tiny-yolov3.pt/download)
+
+
+## Usage
+
+1. Run the application:
+   ```bash
+   streamlit run app.py
+   ```
+
+2. Open the application in your browser.
+
+3. Upload an image or video and select the desired processing option.
+
+4. Download the processed outputs directly from the interface.
 
 
 ## Technologies Used
